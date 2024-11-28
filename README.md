@@ -36,6 +36,26 @@
 - 改进 1 :
 > - 游戏所有菜单界面均改为`_getch()`函数，便于操作
 
+---
+
+*接下来看看游戏内容的一些截图吧：*
+
+- 游戏说明：
+
+![](http://kikyopicbed.site/i/2024/11/28/67480c4f0c8d7.png)
+
+- 游戏进行时界面：
+
+![](http://kikyopicbed.site/i/2024/11/28/67480c50c80e9.png)
+
+- 撞墙失败界面：
+
+![](http://kikyopicbed.site/i/2024/11/28/67480d0818ecb.png)
+
+- 咬到自己失败界面：
+
+![](http://kikyopicbed.site/i/2024/11/28/67480d2031b8f.png)
+
 # The END.
 
 
@@ -78,6 +98,26 @@ The first semester of freshman year is coming to an end, if your final course pr
 
 - Improvement 1 :
 > - All game menu interfaces have been changed to use the`_getch()`function for easier operation.
+
+---
+
+*Now let's see some shots in the game:*
+
+- Game explainations:
+
+![](http://kikyopicbed.site/i/2024/11/28/67480c4f0c8d7.png)
+
+- Game in progress:
+
+![](http://kikyopicbed.site/i/2024/11/28/67480c50c80e9.png)
+
+- When hit the wall:
+
+![](http://kikyopicbed.site/i/2024/11/28/67480d0818ecb.png)
+
+- When bite itself:
+
+![](http://kikyopicbed.site/i/2024/11/28/67480d2031b8f.png)
 
 # The END.
 
